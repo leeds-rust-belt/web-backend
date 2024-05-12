@@ -1,0 +1,11 @@
+-- Add up migration script here
+INSERT INTO `genres` (`genre`) VALUES ("Classical");
+INSERT INTO `genres` (`genre`) VALUES ("Electronic");
+INSERT INTO `genres` (`genre`) VALUES ("Funk");
+INSERT INTO `genres` (`genre`) VALUES ("Indie");
+INSERT INTO `genres` (`genre`) VALUES ("Jazz");
+INSERT INTO `genres` (`genre`) VALUES ("Latin");
+INSERT INTO `genres` (`genre`) VALUES ("R&B");
+INSERT INTO `genres` (`genre`) VALUES ("Reggae");
+INSERT INTO `genres` (`genre`) VALUES ("Rock");
+INSERT INTO `genres` (`genre`) VALUES ("Soul");
