@@ -1,5 +1,5 @@
 [package]
-name = "lokoda_backend"
+name = "website_backend"
 version = "0.3.2"
 authors = ["Dave Gill <david.g.h.gill@protonmail.com>"]
 edition = "2021"
